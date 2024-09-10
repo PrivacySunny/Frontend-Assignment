@@ -1,4 +1,3 @@
-import ImageCarousel from "./ImageCarousel";
 
 interface AddImageButtonProps {
   addImage: () => void;
